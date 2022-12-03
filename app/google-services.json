@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308754814634",
+    "project_id": "urbancut-2db5f",
+    "storage_bucket": "urbancut-2db5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308754814634:android:e27f539d846ba7cbfc22d3",
+        "android_client_info": {
+          "package_name": "com.example.urbancut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308754814634-52o5s9r1ck81jp25bunp3rrb215r6lir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC96FRGvkT1VTcrx-bDCLX66yAQQRuWNKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308754814634-52o5s9r1ck81jp25bunp3rrb215r6lir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
